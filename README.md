@@ -57,6 +57,7 @@ https://github.com/TeeCee07/CruizeControlRentalCars
 
 ### 🌐 Personal Portfolio Website
 A responsive portfolio website showcasing my projects, skills, and experience.
+https://dagg12.github.io/Portfolio-Website/
 
 ---
 
@@ -76,6 +77,6 @@ A responsive portfolio website showcasing my projects, skills, and experience.
 
 💻 GitHub: https://github.com/Dagg12
 
-🌍 Portfolio: Coming Soon
+🌍 Portfolio: https://dagg12.github.io/Portfolio-Website/
 
 🔗 LinkedIn: www.linkedin.com/in/thamaga-kevin-936598365
