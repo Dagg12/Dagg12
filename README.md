@@ -126,7 +126,7 @@ Professional networking company portfolio showcasing real projects, case studies
 
 🌍 **Portfolio:** [https://dagg12.github.io/Portfolio-Website/](https://dagg12.github.io/Portfolio-Website/)
 
-🔗 **LinkedIn:** [www.linkedin.com/in/thamaga-kevin-936598365](www.linkedin.com/in/thamaga-kevin-936598365)
+🔗 **LinkedIn:** [www.linkedin.com/in/thamaga-kevin](www.linkedin.com/in/thamaga-kevin)
 
 🏢 **Business:** [https://dagg12.github.io/Thamas-portfolio/](https://dagg12.github.io/Thamas-portfolio/)
 
