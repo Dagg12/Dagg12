@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Dagg12 animated developer banner" />
+<img src="./assets/hero.svg" width="100%" alt="Animated Dagg12 developer banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=850&color=00E5FF&center=true&vCenter=true&width=950&lines=Software+Developer+%7C+Network+Builder;Full-Stack+Web+Development;Database+%26+Infrastructure;Cybersecurity+%2B+Kali+Linux;Artificial+Intelligence+Explorer;Technology+Entrepreneur;DAGGWORLD+%E2%80%94+BUILDING+THE+NEXT+THING" alt="Animated typing introduction" />
-
-<br>
 
 <img src="https://komarev.com/ghpvc/?username=Dagg12&label=VISITORS&color=00e5ff&style=for-the-badge" alt="Profile visitors" />
 <img src="https://img.shields.io/github/followers/Dagg12?style=for-the-badge&logo=github&label=FOLLOWERS" alt="Followers" />
@@ -67,57 +65,39 @@ I enjoy going beyond the code: understanding how an application connects to its 
 
 ## 🧰 Technology Arsenal
 
-### 💻 Languages
-
 <div align="center">
+
+### 💻 SOFTWARE
 <img src="https://skillicons.dev/icons?i=java,cs,cpp,python,js" alt="Java C# C++ Python JavaScript" />
-</div>
 
-**Java · C# · C++ · Python · JavaScript · SQL**
+`Java` · `C#` · `C++` · `Python` · `JavaScript` · `SQL`
 
-### 🌐 Modern Web
-
-<div align="center">
+### 🌐 WEB
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="HTML CSS JavaScript React Tailwind CSS" />
-</div>
 
-**HTML5 · CSS3 · JavaScript · React · Tailwind CSS**
+`HTML5` · `CSS3` · `JavaScript` · `React` · `Tailwind CSS`
 
-### 🗄️ Databases
-
-<div align="center">
+### 🗄️ DATA
 <img src="https://skillicons.dev/icons?i=mysql,firebase,oracle" alt="MySQL Firebase Oracle" />
-</div>
 
-**MySQL · Oracle Database · Firebase · SQL · MySQL Workbench**
+`MySQL` · `Oracle Database` · `Firebase` · `SQL` · `MySQL Workbench`
 
-### 🛠️ Tools & Platforms
-
-<div align="center">
+### 🛠️ TOOLS
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux" alt="Git GitHub VS Code Visual Studio Linux" />
-</div>
 
-**Git · GitHub · Visual Studio Code · Visual Studio · Cisco Packet Tracer**
+`Git` · `GitHub` · `VS Code` · `Visual Studio` · `Linux` · `Cisco Packet Tracer`
+
+</div>
 
 ---
 
-## 🌐 Networking & Infrastructure
+## 🌐 Networking // Infrastructure
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/CISCO-NETWORKING-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/WIFI-OPTIMISATION-00A4EF?style=for-the-badge&logo=wifi&logoColor=white" />
-<img src="https://img.shields.io/badge/VLAN-ROUTING-4C6FFF?style=for-the-badge&logo=buffer&logoColor=white" />
-<img src="https://img.shields.io/badge/DHCP-DNS-64748B?style=for-the-badge&logo=serverless&logoColor=white" />
-
+<img src="./assets/network.svg" width="100%" alt="Animated networking lab" />
 </div>
 
-```text
-🌐 IPv4 / Subnetting     🔀 Routing          🔁 Switching
-🏷️ VLANs                 🔄 DHCP             🌍 DNS
-📡 WiFi                  📶 Mesh Networks    🖧 Network Design
-🔧 Troubleshooting       🛡️ Network Security
-```
+**IPv4 · Subnetting · Routing · Switching · VLANs · DHCP · DNS · WiFi · Mesh Networks · Network Design · Troubleshooting · Network Security**
 
 I've used **Cisco Packet Tracer** for network design, configuration and troubleshooting involving routers, switches, VLANs, servers and wireless infrastructure.
 
@@ -172,21 +152,38 @@ I'm currently learning **Kali Linux and ethical hacking** as part of my cybersec
 
 Exploring AI for **software development, automation, intelligent applications, data analysis, cybersecurity, networking, design and problem solving**.
 
-```text
-🤖 AI APPLICATIONS   ⚙️ AUTOMATION   🧠 INTELLIGENT SYSTEMS
-🔎 AI-ASSISTED DEV    📊 DATA         🔐 AI + SECURITY
-🌐 AI + NETWORKING    🎨 AI DESIGN    💡 AI PROBLEM SOLVING
-```
+<div align="center">
+
+`🤖 AI APPLICATIONS` &nbsp; `⚙️ AUTOMATION` &nbsp; `🧠 INTELLIGENT SYSTEMS`
+
+`🔎 AI-ASSISTED DEV` &nbsp; `📊 DATA` &nbsp; `🔐 AI + SECURITY`
+
+`🌐 AI + NETWORKING` &nbsp; `🎨 AI DESIGN` &nbsp; `💡 AI PROBLEM SOLVING`
+
+</div>
 
 ---
 
-## 📚 Currently Learning & Exploring
+## 📚 Learning Console
 
 <div align="center">
 
-`🐉 KALI LINUX` &nbsp; `🔐 ETHICAL HACKING` &nbsp; `⚛️ REACT` &nbsp; `🌊 TAILWIND`
-
-`🤖 ARTIFICIAL INTELLIGENCE` &nbsp; `🌐 NETWORKING` &nbsp; `☁️ CLOUD`
+```text
+┌─────────────────────────────────────────────────────┐
+│                 CURRENTLY EXPLORING                  │
+├─────────────────────────────────────────────────────┤
+│                                                     │
+│  🐉 Kali Linux          ███████████░░░  ACTIVE      │
+│  🔐 Ethical Hacking     █████████░░░░░  LEARNING    │
+│  ⚛️ React               ████████████░░  BUILDING    │
+│  🌊 Tailwind CSS        ███████████░░░  BUILDING    │
+│  🤖 Artificial Intel.   █████████░░░░░  EXPLORING   │
+│  🌐 Networking          ████████████░░  PRACTICING   │
+│  ☁️ Cloud Technologies  ███████░░░░░░░  EXPLORING   │
+│                                                     │
+│  STATUS: ALWAYS LEARNING ⚡                          │
+└─────────────────────────────────────────────────────┘
+```
 
 </div>
 
@@ -194,36 +191,41 @@ Exploring AI for **software development, automation, intelligent applications, d
 
 ## 🚀 Selected Builds
 
-### 🏥 Centalytics — Hospital Management System
+<div align="center">
 
-A responsive full-stack hospital management application built around Firebase.
+### 🏥 Centalytics
+**Hospital Management System**
 
 `HTML` `CSS` `JavaScript` `Firebase`
 
-**Repository:** https://github.com/Dagg12/Centalytics  
-**Live:** https://centalytics-cef6c.web.app
+[Repository](https://github.com/Dagg12/Centalytics) · [Live Application](https://centalytics-cef6c.web.app)
 
-### 🩸 Clinical Blood Bank Management System
+---
 
-An ASP.NET and MySQL solution for blood donations, inventory and hospital requests.
+### 🩸 Clinical Blood Bank
+**Blood donation & hospital request management**
 
 `ASP.NET` `C#` `MySQL`
 
-**Repository:** https://github.com/TeeCee07/ClinicalBloodBank
+[Repository](https://github.com/TeeCee07/ClinicalBloodBank)
+
+---
 
 ### 🚗 Cruize Control Rental Cars
-
-A vehicle rental application covering cars, bookings and customer management.
+**Vehicle rental & booking management**
 
 `C#` `Database Systems` `Web Development`
 
-**Repository:** https://github.com/TeeCee07/CruizeControlRentalCars
+[Repository](https://github.com/TeeCee07/CruizeControlRentalCars)
+
+---
 
 ### 🌐 Personal Portfolio
+**Professional portfolio & digital showcase**
 
-My professional portfolio for projects, skills and digital work.
+[Website](https://dagg12.github.io/Portfolio-Website/)
 
-**Website:** https://dagg12.github.io/Portfolio-Website/
+</div>
 
 ---
 
@@ -239,7 +241,13 @@ My professional portfolio for projects, skills and digital work.
 
 A South African ICT and networking venture focused on practical connectivity and technology solutions.
 
-**📶 WiFi Installation · 🌐 Network Design · 📡 Mesh WiFi · 🔧 Router Configuration · 📍 Dead-Zone Elimination · 🏠 Home Networking · 🏢 Business Networking**
+<div align="center">
+
+`📶 WiFi INSTALLATION` · `🌐 NETWORK DESIGN` · `📡 MESH WIFI`
+
+`🔧 ROUTER CONFIGURATION` · `📍 DEAD-ZONE ELIMINATION` · `🏢 BUSINESS NETWORKING`
+
+</div>
 
 **Business Portfolio:** https://dagg12.github.io/Thamas-portfolio/  
 **Business Email:** Thamastechworld@gmail.com
@@ -254,15 +262,10 @@ A South African ICT and networking venture focused on practical connectivity and
 
 ```text
 ╔════════════════════════════════════════════════════╗
-║                                                    ║
 ║                    DAGGWORLD                       ║
-║                                                    ║
 ║              CODE × CULTURE × STYLE               ║
-║                                                    ║
 ║                  👕 COMING SOON                   ║
-║                                                    ║
 ║         DESIGN • BRAND • IDENTITY • CULTURE       ║
-║                                                    ║
 ╚════════════════════════════════════════════════════╝
 ```
 
@@ -277,14 +280,12 @@ A clothing and lifestyle brand currently being shaped through **design explorati
 ## 📊 GitHub Command Center
 
 <div align="center">
-
 <img src="./profile/stats.svg" width="49%" alt="GitHub statistics" />
 <img src="./profile/top-langs.svg" width="49%" alt="Top languages" />
 
 <br><br>
 
 <img src="https://streak-stats.demolab.com?user=Dagg12&theme=tokyonight&hide_border=true&border_radius=16" width="82%" alt="GitHub contribution streak" />
-
 </div>
 
 ---
@@ -295,9 +296,9 @@ A clothing and lifestyle brand currently being shaped through **design explorati
 
 <img src="https://raw.githubusercontent.com/Dagg12/Dagg12/output/github-snake.svg" width="96%" alt="Animated GitHub contribution snake" />
 
-<br>
+<br><br>
 
-`CONTRIBUTIONS → MOVEMENT → MOMENTUM`
+`CONTRIBUTIONS` → `MOVEMENT` → `MOMENTUM`
 
 </div>
 
@@ -305,9 +306,11 @@ A clothing and lifestyle brand currently being shaped through **design explorati
 
 ## 🎮 Dagg12 Terminal
 
+<div align="center">
+
 ```text
 ╭────────────────────────────────────────────────────────────╮
-│  dagg12@github:~$ ./profile                              │
+│  dagg12@github:~$ ./profile                               │
 ├────────────────────────────────────────────────────────────┤
 │                                                            │
 │  identity       : Dagg12                                   │
@@ -327,17 +330,19 @@ A clothing and lifestyle brand currently being shaped through **design explorati
 ╰────────────────────────────────────────────────────────────╯
 ```
 
+</div>
+
 ---
 
 ## 🧭 Professional Direction
 
 <div align="center">
 
-**💻 SOFTWARE ENGINEERING**  →  **🌐 FULL-STACK WEB**  →  **🗄️ DATA**  →  **🌐 NETWORKS**
+`💻 SOFTWARE` → `🌐 WEB` → `🗄️ DATA` → `🌐 NETWORKS`
 
-↓
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓
 
-**🔐 CYBERSECURITY**  →  **🐉 ETHICAL HACKING**  →  **🤖 AI**  →  **🚀 ENTREPRENEURSHIP**
+`🔐 SECURITY` → `🐉 ETHICAL HACKING` → `🤖 AI` → `🚀 ENTREPRENEURSHIP`
 
 </div>
 
@@ -345,9 +350,13 @@ A clothing and lifestyle brand currently being shaped through **design explorati
 
 ## 🤝 Let's Build Something
 
-I'm open to connecting with **software developers, network engineers, cybersecurity professionals, AI enthusiasts, database developers, entrepreneurs and creative technologists**.
+<div align="center">
+
+**SOFTWARE** · **NETWORKING** · **CYBERSECURITY** · **AI** · **DATABASES** · **ENTREPRENEURSHIP** · **CREATIVE TECHNOLOGY**
 
 > **Different technologies. One goal: build something useful.**
+
+</div>
 
 ---
 
