@@ -1,352 +1,357 @@
 <div align="center">
 
-# ⚡ DAGG12
+<img src="./assets/hero.svg" width="100%" alt="Dagg12 animated developer banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=900&color=36BCF7&center=true&vCenter=true&width=900&lines=Software+Developer;Web+Application+Developer;Networking+%26+Infrastructure;Database+Developer;Cybersecurity+Explorer;Kali+Linux+%26+Ethical+Hacking+Learner;Artificial+Intelligence+Explorer;Technology+Entrepreneur" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=850&color=00E5FF&center=true&vCenter=true&width=950&lines=Software+Developer+%7C+Network+Builder;Full-Stack+Web+Development;Database+%26+Infrastructure;Cybersecurity+%2B+Kali+Linux;Artificial+Intelligence+Explorer;Technology+Entrepreneur;DAGGWORLD+%E2%80%94+BUILDING+THE+NEXT+THING" alt="Animated typing introduction" />
 
-<img src="https://komarev.com/ghpvc/?username=Dagg12&label=PROFILE+VIEWS&color=36BCF7&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/Dagg12?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
-<img src="https://img.shields.io/github/stars/Dagg12?style=for-the-badge&logo=github&label=Stars" alt="Stars" />
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Dagg12&label=VISITORS&color=00e5ff&style=for-the-badge" alt="Profile visitors" />
+<img src="https://img.shields.io/github/followers/Dagg12?style=for-the-badge&logo=github&label=FOLLOWERS" alt="Followers" />
+<img src="https://img.shields.io/github/stars/Dagg12?style=for-the-badge&logo=github&label=STARS" alt="Stars" />
 
 </div>
 
 ---
 
-# 👋 About Me
+## ⚡ `whoami`
 
-I'm **Vhukhudo Kevin Thamaga**, known online as **Dagg12** — a South African software developer and technology enthusiast focused on building practical digital solutions.
+> **Vhukhudo Kevin Thamaga — Dagg12** 🇿🇦
 
-My interests span **software development, modern web applications, databases, networking, cybersecurity and artificial intelligence**. I like understanding the complete system rather than only one layer of it.
+I'm a software developer and technology builder interested in the intersection of **software, web applications, databases, networking, cybersecurity, artificial intelligence and entrepreneurship**.
+
+I enjoy going beyond the code: understanding how an application connects to its data, how the network carries it, how security protects it, and how AI can make the solution smarter.
+
+<div align="center">
 
 ```text
-💡 IDEA → 🔎 PROBLEM → 🧠 RESEARCH → 💻 BUILD
-                         ↓
-             🗄️ DATA + 🌐 NETWORK
-                         ↓
-                    🔐 SECURE
-                         ↓
-                      🤖 AI
-                         ↓
-                 🧪 TEST → 🚀 SHIP
+             💡 IDEA
+                │
+                ▼
+          🔎 UNDERSTAND
+                │
+                ▼
+          🧠 DESIGN & LEARN
+                │
+       ┌────────┼────────┐
+       ▼        ▼        ▼
+     💻 WEB   🗄️ DATA  🌐 NETWORK
+       │        │        │
+       └────────┼────────┘
+                ▼
+           🔐 SECURE
+                │
+                ▼
+             🤖 AI
+                │
+                ▼
+          🧪 TEST / SHIP
+                │
+                ▼
+            🚀 IMPROVE
 ```
+
+</div>
 
 > **Build it. Understand it. Test it. Secure it. Improve it.**
 
 ---
 
-# 🚀 Professional Focus
+## 🌌 My Technology Universe
 
 <div align="center">
-<img src="https://img.shields.io/badge/Software%20Development-Active-3178C6?style=for-the-badge&logo=code&logoColor=white" />
-<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Networking-Infrastructure-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/Cybersecurity-Learning-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/AI-Exploring-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="./assets/tech-orbit.svg" width="100%" alt="Animated technology orbit" />
 </div>
 
-- 💻 Software & web application development
-- ⚛️ React and modern frontend development
-- 🎨 Tailwind CSS and responsive UI
-- 🗄️ Database design and SQL
-- 🌐 Networking and infrastructure
-- 🔐 Cybersecurity and ethical hacking
-- 🐉 Kali Linux and Linux fundamentals
-- 🤖 Artificial intelligence and AI-assisted development
-- 🚀 Technology entrepreneurship
-- 🎨 Digital creativity and brand development
+---
+
+## 🧰 Technology Arsenal
+
+### 💻 Languages
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,cs,cpp,python,js" alt="Java C# C++ Python JavaScript" />
+</div>
+
+**Java · C# · C++ · Python · JavaScript · SQL**
+
+### 🌐 Modern Web
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="HTML CSS JavaScript React Tailwind CSS" />
+</div>
+
+**HTML5 · CSS3 · JavaScript · React · Tailwind CSS**
+
+### 🗄️ Databases
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=mysql,firebase,oracle" alt="MySQL Firebase Oracle" />
+</div>
+
+**MySQL · Oracle Database · Firebase · SQL · MySQL Workbench**
+
+### 🛠️ Tools & Platforms
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux" alt="Git GitHub VS Code Visual Studio Linux" />
+</div>
+
+**Git · GitHub · Visual Studio Code · Visual Studio · Cisco Packet Tracer**
 
 ---
 
-# 🧰 Technology Arsenal
+## 🌐 Networking & Infrastructure
 
-## 💻 Programming
+<div align="center">
 
-<p align="center"><img src="https://skillicons.dev/icons?i=java,cs,cpp,python,js" alt="Java C# C++ Python JavaScript" /></p>
+<img src="https://img.shields.io/badge/CISCO-NETWORKING-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/WIFI-OPTIMISATION-00A4EF?style=for-the-badge&logo=wifi&logoColor=white" />
+<img src="https://img.shields.io/badge/VLAN-ROUTING-4C6FFF?style=for-the-badge&logo=buffer&logoColor=white" />
+<img src="https://img.shields.io/badge/DHCP-DNS-64748B?style=for-the-badge&logo=serverless&logoColor=white" />
 
-**Java • C# • C++ • Python • JavaScript • SQL**
-
-## 🌐 Web
-
-<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="HTML CSS JavaScript React Tailwind" /></p>
-
-**HTML5 • CSS3 • JavaScript • React • Tailwind CSS**
-
-## 🗄️ Data
-
-<p align="center"><img src="https://skillicons.dev/icons?i=mysql,firebase,oracle" alt="MySQL Firebase Oracle" /></p>
-
-**MySQL • Oracle Database • Firebase • SQL • MySQL Workbench**
-
-## 🛠️ Tools
-
-<p align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux" alt="Git GitHub VS Code Visual Studio Linux" /></p>
-
-**Git • GitHub • Visual Studio Code • Visual Studio • Linux • Cisco Packet Tracer**
-
----
-
-# 🌐 Networking & Infrastructure
+</div>
 
 ```text
-🌐 IPv4 Addressing    📐 Subnetting       🔀 Routing
-🔁 Switching          🏷️ VLANs            🔄 DHCP
-🌍 DNS                📡 WiFi             📶 Mesh Networks
-🖧 Network Design     🔧 Troubleshooting  🛡️ Network Security
+🌐 IPv4 / Subnetting     🔀 Routing          🔁 Switching
+🏷️ VLANs                 🔄 DHCP             🌍 DNS
+📡 WiFi                  📶 Mesh Networks    🖧 Network Design
+🔧 Troubleshooting       🛡️ Network Security
 ```
 
 I've used **Cisco Packet Tracer** for network design, configuration and troubleshooting involving routers, switches, VLANs, servers and wireless infrastructure.
 
 ---
 
-# 🔐 Cybersecurity & Ethical Hacking
+## 🐉 Kali Linux // Ethical Hacking
 
 <div align="center">
-<img src="https://img.shields.io/badge/Kali%20Linux-Learning-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/Ethical%20Hacking-Learning-111111?style=for-the-badge&logo=hackthebox&logoColor=white" />
-<img src="https://img.shields.io/badge/Cybersecurity-Exploring-2E8B57?style=for-the-badge&logo=protonvpn&logoColor=white" />
+<img src="./assets/kali.svg" width="100%" alt="Animated Kali Linux security learning panel" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=linux,bash" alt="Linux and Bash" />
+
 </div>
 
-I'm learning **Kali Linux and ethical hacking** to understand how systems and networks can be analysed, tested and defended.
-
-### 🔎 Learning Areas
-
-- 🐧 Linux and command line
-- 🌐 Network reconnaissance
-- 🔎 Information gathering
-- 📡 Network analysis
-- 🛡️ Security fundamentals
-- 🔐 System security
-- 🧪 Ethical hacking methodologies
-- 🔍 Vulnerability identification
-- 🧰 Security testing tools
-- 🌐 Network security
-- 🛡️ Defensive security concepts
+I'm currently learning **Kali Linux and ethical hacking** as part of my cybersecurity development. The goal is to understand systems and networks from both an **attacker-awareness and defensive perspective**.
 
 ```text
-┌──(dagg㉿kali)-[~]
-└─$ cat learning.log
+┌──(dagg㉿kali)-[~/learning]
+└─$ ./security_journey
 
-[+] Linux fundamentals ............ LEARNING
-[+] Networking .................... PRACTICING
-[+] Reconnaissance ................ EXPLORING
-[+] Information gathering ......... EXPLORING
-[+] Vulnerability awareness ....... LEARNING
-[+] Ethical hacking ............... LEARNING
-[+] Security testing .............. LEARNING
-[+] Defensive security ............ DEVELOPING
+  [✓] Linux & Command Line
+  [✓] Networking Fundamentals
+  [>] Information Gathering
+  [>] Network Reconnaissance
+  [>] Network Analysis
+  [>] Vulnerability Awareness
+  [>] Security Testing
+  [>] Defensive Security
 
-STATUS: CYBERSECURITY JOURNEY ACTIVE ⚡
+  MODE: LEARNING
+  SCOPE: AUTHORIZED LABS / PERSONAL ENVIRONMENTS
+  STATUS: ACTIVE ⚡
 ```
 
-> 🔐 **Ethical hacking means learning how systems can be attacked so they can be protected better.**
+**Exploring:** Linux · Reconnaissance · Information Gathering · Network Analysis · Vulnerability Identification · Security Fundamentals · Ethical Hacking Methodologies · Security Testing Tools · Defensive Security.
 
-All cybersecurity learning and testing is limited to **authorised labs, personal environments and educational platforms**.
-
----
-
-# 🤖 Artificial Intelligence
-
-<div align="center"><img src="https://img.shields.io/badge/Artificial%20Intelligence-Exploring-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" /><img src="https://img.shields.io/badge/Generative%20AI-Exploring-111111?style=for-the-badge&logo=googlegemini&logoColor=white" /></div>
-
-I'm exploring how AI can support modern software, cybersecurity, networking and business solutions.
-
-- 🤖 AI-powered applications
-- 🧠 Intelligent systems
-- ⚙️ Automation
-- 🔎 AI-assisted development
-- 📊 Data analysis
-- 🔐 AI & cybersecurity
-- 🌐 AI & networking
-- 🎨 AI-assisted design
-- 💡 AI-assisted problem solving
+> 🔐 **Ethical hacking is about understanding how systems can be attacked so they can be protected better.**
+>
+> All cybersecurity learning and testing is performed only in **authorised labs, personal environments and educational platforms**.
 
 ---
 
-# 📚 Currently Learning
+## 🤖 Artificial Intelligence // Exploring
 
-| Technology | Focus |
-|---|---|
-| 🐉 Kali Linux | Cybersecurity & Linux |
-| 🔐 Ethical Hacking | Security fundamentals |
-| ⚛️ React | Modern frontend |
-| 🌊 Tailwind CSS | UI development |
-| 🤖 Artificial Intelligence | AI applications |
-| 🌐 Networking | Infrastructure & security |
-| ☁️ Cloud Technologies | Modern systems |
+<div align="center">
+<img src="https://img.shields.io/badge/AI-EXPLORING-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/GENERATIVE%20AI-EXPLORING-111827?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/AUTOMATION-BUILDING-00A896?style=for-the-badge&logo=robotframework&logoColor=white" />
+</div>
+
+Exploring AI for **software development, automation, intelligent applications, data analysis, cybersecurity, networking, design and problem solving**.
+
+```text
+🤖 AI APPLICATIONS   ⚙️ AUTOMATION   🧠 INTELLIGENT SYSTEMS
+🔎 AI-ASSISTED DEV    📊 DATA         🔐 AI + SECURITY
+🌐 AI + NETWORKING    🎨 AI DESIGN    💡 AI PROBLEM SOLVING
+```
 
 ---
 
-# 📂 Featured Projects
+## 📚 Currently Learning & Exploring
+
+<div align="center">
+
+`🐉 KALI LINUX` &nbsp; `🔐 ETHICAL HACKING` &nbsp; `⚛️ REACT` &nbsp; `🌊 TAILWIND`
+
+`🤖 ARTIFICIAL INTELLIGENCE` &nbsp; `🌐 NETWORKING` &nbsp; `☁️ CLOUD`
+
+</div>
+
+---
+
+## 🚀 Selected Builds
 
 ### 🏥 Centalytics — Hospital Management System
-Full-stack hospital management solution using Firebase.
+
+A responsive full-stack hospital management application built around Firebase.
 
 `HTML` `CSS` `JavaScript` `Firebase`
 
-🔗 https://github.com/Dagg12/Centalytics  
-🌐 https://centalytics-cef6c.web.app
+**Repository:** https://github.com/Dagg12/Centalytics  
+**Live:** https://centalytics-cef6c.web.app
 
 ### 🩸 Clinical Blood Bank Management System
-ASP.NET and MySQL application for blood donations, inventory and hospital requests.
+
+An ASP.NET and MySQL solution for blood donations, inventory and hospital requests.
 
 `ASP.NET` `C#` `MySQL`
 
-🔗 https://github.com/TeeCee07/ClinicalBloodBank
+**Repository:** https://github.com/TeeCee07/ClinicalBloodBank
 
 ### 🚗 Cruize Control Rental Cars
-Car rental application covering vehicles, bookings and customer management.
+
+A vehicle rental application covering cars, bookings and customer management.
 
 `C#` `Database Systems` `Web Development`
 
-🔗 https://github.com/TeeCee07/CruizeControlRentalCars
+**Repository:** https://github.com/TeeCee07/CruizeControlRentalCars
 
 ### 🌐 Personal Portfolio
-Responsive portfolio showcasing projects and professional work.
 
-🌐 https://dagg12.github.io/Portfolio-Website/
+My professional portfolio for projects, skills and digital work.
+
+**Website:** https://dagg12.github.io/Portfolio-Website/
 
 ---
 
-# 📡 THAMAS TECH WORLD
+## 📡 THAMAS TECH WORLD
 
 <div align="center">
 
-## 🏢 THAMAS TECH WORLD
-### `ICT • NETWORKING • SMART TECHNOLOGY`
-> **WE DO IT RIGHT.**
+<img src="https://img.shields.io/badge/THAMAS%20TECH%20WORLD-ICT%20%26%20NETWORKING-0EA5E9?style=for-the-badge&logo=wifi&logoColor=white" />
+
+### **WE DO IT RIGHT.**
 
 </div>
 
-**THAMAS TECH WORLD** is a South African ICT and networking venture focused on practical connectivity and technology solutions.
+A South African ICT and networking venture focused on practical connectivity and technology solutions.
 
-### 📶 Services
+**📶 WiFi Installation · 🌐 Network Design · 📡 Mesh WiFi · 🔧 Router Configuration · 📍 Dead-Zone Elimination · 🏠 Home Networking · 🏢 Business Networking**
 
-- 📶 Professional WiFi Installation
-- 🌐 Network Design & Optimisation
-- 📡 WiFi Optimisation
-- 📶 Mesh WiFi Setup
-- 📍 Dead-Zone Elimination
-- 🏠 Home Networking
-- 🏢 Business Networking
-- 🔧 Router Configuration
-- 🛠️ Technical IT Solutions
-
-🌐 https://dagg12.github.io/Thamas-portfolio/  
-📧 Thamastechworld@gmail.com
+**Business Portfolio:** https://dagg12.github.io/Thamas-portfolio/  
+**Business Email:** Thamastechworld@gmail.com
 
 ---
 
-# 😏 DAGGWORLD
+## 😏 DAGGWORLD // IN DEVELOPMENT
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/DAGGWORLD-DESIGN%20PHASE%20%E2%80%A2%202026-111827?style=for-the-badge" />
+
 ```text
-╔══════════════════════════════════════════════╗
-║                 DAGGWORLD                    ║
-║          CODE × CULTURE × STYLE              ║
-║              👕 COMING SOON                  ║
-║             DESIGN PHASE • 2026              ║
-╚══════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════╗
+║                                                    ║
+║                    DAGGWORLD                       ║
+║                                                    ║
+║              CODE × CULTURE × STYLE               ║
+║                                                    ║
+║                  👕 COMING SOON                   ║
+║                                                    ║
+║         DESIGN • BRAND • IDENTITY • CULTURE       ║
+║                                                    ║
+╚════════════════════════════════════════════════════╝
 ```
 
 </div>
 
-**DAGGWORLD** is a clothing and lifestyle brand currently in the **design and development stage**.
-
-**Fashion • Branding • Technology • Visual Design • Creativity • Entrepreneurship**
-
-### 🚧 Current Stage
-
-- 🎨 Brand identity
-- 👕 Clothing concepts
-- 🖌️ Design exploration
-- 🏷️ Brand direction
-- 📱 Digital branding
-- 🚀 Future product development
+A clothing and lifestyle brand currently being shaped through **design exploration, brand identity, clothing concepts and digital creativity**.
 
 > **Code. Create. Build. Wear Your Identity.**
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Command Center
 
 <div align="center">
+
 <img src="./profile/stats.svg" width="49%" alt="GitHub statistics" />
 <img src="./profile/top-langs.svg" width="49%" alt="Top languages" />
-</div>
 
-# 🔥 GitHub Streak
+<br><br>
 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=Dagg12&theme=tokyonight&hide_border=true&border_radius=12" width="80%" alt="GitHub streak" />
-</div>
+<img src="https://streak-stats.demolab.com?user=Dagg12&theme=tokyonight&hide_border=true&border_radius=16" width="82%" alt="GitHub contribution streak" />
 
-# 🐍 Contribution Activity
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Dagg12/Dagg12/output/github-snake.svg" width="95%" alt="GitHub contribution snake animation" />
-
-### 🐍 My contributions are alive.
 </div>
 
 ---
 
-# 🎮 Developer Mode
+## 🐍 Contribution Matrix
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Dagg12/Dagg12/output/github-snake.svg" width="96%" alt="Animated GitHub contribution snake" />
+
+<br>
+
+`CONTRIBUTIONS → MOVEMENT → MOMENTUM`
+
+</div>
+
+---
+
+## 🎮 Dagg12 Terminal
 
 ```text
-┌──────────────────────────────────────────────────────┐
-│                  DAGG12 TERMINAL                     │
-├──────────────────────────────────────────────────────┤
-│  $ whoami                                            │
-│  > Dagg12                                            │
-│                                                      │
-│  $ focus                                             │
-│  > Software Development                              │
-│  > Networking                                        │
-│  > Databases                                         │
-│  > Cybersecurity                                     │
-│  > Artificial Intelligence                           │
-│                                                      │
-│  $ status                                            │
-│  > ONLINE ⚡                                         │
-└──────────────────────────────────────────────────────┘
+╭────────────────────────────────────────────────────────────╮
+│  dagg12@github:~$ ./profile                              │
+├────────────────────────────────────────────────────────────┤
+│                                                            │
+│  identity       : Dagg12                                   │
+│  environment    : South Africa 🇿🇦                         │
+│  mode           : BUILDING                                 │
+│                                                            │
+│  stack          : Java / C# / C++ / Python / JS            │
+│  frontend       : React / Tailwind / HTML / CSS            │
+│  data           : MySQL / Oracle / Firebase                │
+│  infrastructure : Cisco / Routing / Switching / WiFi       │
+│  security       : Kali Linux / Ethical Hacking             │
+│  intelligence   : AI / Automation                           │
+│                                                            │
+│  side quests    : THAMAS TECH WORLD / DAGGWORLD            │
+│                                                            │
+│  status         : ONLINE ⚡                                │
+╰────────────────────────────────────────────────────────────╯
 ```
 
 ---
 
-# 🎯 Professional Direction
+## 🧭 Professional Direction
 
-```text
-💻 Software Engineering
-        +
-🌐 Full-Stack Web Development
-        +
-🗄️ Database Engineering
-        +
-🌐 Network Engineering
-        +
-🔐 Cybersecurity
-        +
-🐉 Ethical Hacking
-        +
-🤖 Artificial Intelligence
-        +
-🚀 Technology Entrepreneurship
-        +
-😏 Creative Brand Development
-```
+<div align="center">
+
+**💻 SOFTWARE ENGINEERING**  →  **🌐 FULL-STACK WEB**  →  **🗄️ DATA**  →  **🌐 NETWORKS**
+
+↓
+
+**🔐 CYBERSECURITY**  →  **🐉 ETHICAL HACKING**  →  **🤖 AI**  →  **🚀 ENTREPRENEURSHIP**
+
+</div>
 
 ---
 
-# 🤝 Let's Build Something
+## 🤝 Let's Build Something
 
-I'm interested in connecting with **software developers, network engineers, cybersecurity professionals, AI enthusiasts, database developers, entrepreneurs and creative technologists**.
+I'm open to connecting with **software developers, network engineers, cybersecurity professionals, AI enthusiasts, database developers, entrepreneurs and creative technologists**.
 
 > **Different technologies. One goal: build something useful.**
 
 ---
 
-# 📫 Contact Me
+## 📫 Contact / Links
 
 <div align="center">
 
@@ -356,8 +361,8 @@ I'm interested in connecting with **software developers, network engineers, cybe
 
 <br><br>
 
-<a href="https://dagg12.github.io/Portfolio-Website/"><img src="https://img.shields.io/badge/🌐%20PERSONAL%20PORTFOLIO-VISIT-36BCF7?style=for-the-badge" alt="Portfolio" /></a>
-<a href="https://dagg12.github.io/Thamas-portfolio/"><img src="https://img.shields.io/badge/🏢%20THAMAS%20TECH%20WORLD-BUSINESS-111111?style=for-the-badge" alt="THAMAS TECH WORLD" /></a>
+<a href="https://dagg12.github.io/Portfolio-Website/"><img src="https://img.shields.io/badge/🌐%20PORTFOLIO-VISIT-00AEEF?style=for-the-badge" alt="Portfolio" /></a>
+<a href="https://dagg12.github.io/Thamas-portfolio/"><img src="https://img.shields.io/badge/🏢%20THAMAS%20TECH%20WORLD-BUSINESS-111827?style=for-the-badge" alt="THAMAS TECH WORLD" /></a>
 
 </div>
 
@@ -365,14 +370,11 @@ I'm interested in connecting with **software developers, network engineers, cybe
 
 <div align="center">
 
-# 💡 BUILD SOMETHING
-# 🧠 LEARN SOMETHING
-# 🚀 IMPROVE SOMETHING
-# 🔥 REPEAT
+### 💡 BUILD SOMETHING &nbsp; • &nbsp; 🧠 LEARN SOMETHING &nbsp; • &nbsp; 🚀 IMPROVE SOMETHING
 
-### “Technology should simplify life — not complicate it.”
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:8b5cf6,100:00ff9d&height=160&section=footer" width="100%" alt="Animated gradient footer" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer" alt="Animated footer" />
+**“Technology should simplify life — not complicate it.”**
 
 **© 2026 Vhukhudo Kevin Thamaga • Dagg12**
 
