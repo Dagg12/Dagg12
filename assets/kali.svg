@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="title desc">
+<title id="title">Dagg12 Kali Linux security lab</title><desc id="desc">Animated Kali Linux inspired security learning panel</desc>
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#557C94"/><stop offset=".5" stop-color="#00a4d6"/><stop offset="1" stop-color="#7dd3fc"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1200" height="230" rx="24" fill="#07111a" stroke="#557C94" stroke-width="2"/>
+<circle cx="1100" cy="70" r="120" fill="#557C94" opacity=".09"><animate attributeName="r" values="90;125;90" dur="6s" repeatCount="indefinite"/></circle>
+<text x="50" y="55" fill="#7dd3fc" font-family="monospace" font-size="16">SECURITY LAB // AUTHORIZED LEARNING ONLY</text>
+<text x="50" y="105" fill="#ffffff" font-family="sans-serif" font-size="32" font-weight="700">🐉 KALI LINUX × ETHICAL HACKING</text>
+<text x="50" y="140" fill="#a9c2d1" font-family="sans-serif" font-size="16">Linux • Reconnaissance • Network Analysis • Vulnerability Awareness • Defensive Security</text>
+<text x="50" y="185" fill="#00ff9d" font-family="monospace" font-size="17">[</text><rect x="72" y="171" width="330" height="16" rx="8" fill="#132532"/><rect x="72" y="171" width="220" height="16" rx="8" fill="url(#g)"><animate attributeName="width" values="190;280;220;300;220" dur="5s" repeatCount="indefinite"/></rect><text x="420" y="185" fill="#00ff9d" font-family="monospace" font-size="17">] LEARNING MODE</text>
+<text x="850" y="190" fill="#557C94" font-family="monospace" font-size="14">dagg㉿kali:~$</text>
+</svg>
