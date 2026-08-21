@@ -15,7 +15,7 @@
 <text x="150" y="79" fill="#8da2c0" font-family="monospace" font-size="15">dagg12@github:~</text>
 <text x="82" y="140" fill="#00e5ff" font-family="monospace" font-size="22">$ whoami</text>
 <text x="82" y="177" fill="#ffffff" font-family="sans-serif" font-weight="700" font-size="34">Vhukhudo Kevin Thamaga</text>
-<text x="82" y="210" fill="#9fb4d0" font-family="sans-serif" font-size="18">SOFTWARE • NETWORKS • SECURITY • AI • ENTREPRENEURSHIP</text>
+<text x="82" y="210" fill="#9fb4d0" font-family="sans-serif" font-size="18">Full-STACK • SOFTWARE • NETWORKS • SECURITY • AI • ENTREPRENEURSHIP</text>
 <text x="82" y="252" fill="#00ff9d" font-family="monospace" font-size="18">$ status --system</text>
 <text x="285" y="252" fill="#ffffff" font-family="monospace" font-size="18">ONLINE</text>
 <circle cx="420" cy="246" r="6" fill="#00ff9d" filter="url(#glow)"><animate attributeName="opacity" values="1;.25;1" dur="1.2s" repeatCount="indefinite"/></circle>
