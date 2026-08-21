@@ -1,0 +1,56 @@
+name: Build DAGGWORLD Design Slideshow
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'assets/daggworld/*.png'
+      - 'assets/daggworld/*.jpg'
+      - 'assets/daggworld/*.jpeg'
+      - 'assets/daggworld/*.webp'
+
+permissions:
+  contents: write
+
+jobs:
+  build-slideshow:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install ImageMagick
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y imagemagick
+
+      - name: Build animated slideshow
+        shell: bash
+        run: |
+          set -euo pipefail
+          shopt -s nullglob
+          files=(assets/daggworld/*.png assets/daggworld/*.jpg assets/daggworld/*.jpeg assets/daggworld/*.webp)
+          if [ "${#files[@]}" -eq 0 ]; then
+            echo "No DAGGWORLD design images found."
+            exit 1
+          fi
+          mkdir -p /tmp/daggworld
+          i=0
+          for file in "${files[@]}"; do
+            i=$((i+1))
+            magick "$file" -auto-orient -resize '900x700>' -background '#020617' -gravity center -extent 900x700 -strip "/tmp/daggworld/frame-$(printf '%03d' "$i").png"
+          done
+          magick -delay 180 -loop 0 /tmp/daggworld/frame-*.png -layers Optimize assets/daggworld/daggworld-slideshow.gif
+          identify assets/daggworld/daggworld-slideshow.gif
+
+      - name: Commit slideshow
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/daggworld/daggworld-slideshow.gif
+          if git diff --cached --quiet; then
+            echo "Slideshow is already up to date."
+          else
+            git commit -m "build: update DAGGWORLD design slideshow"
+            git push
+          fi
