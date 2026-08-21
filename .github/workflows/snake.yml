@@ -1,43 +1,29 @@
-- name: Checkmarx DAST Github Action
-  # You may pin to the exact commit or the version.
-  # uses: Checkmarx/dast-github-action@950df92f6e10176062726fb5b806723a7ad5d602
-  uses: Checkmarx/dast-github-action@v2.3.0
-  with:
-    # The type of scan to preform (web, api)
-    command: 
-    # The path to the ZAP configuration file
-    config: 
-    # The baseURL for the Checkmarx One Servers
-    base_url: 
-    # The environment ID previously created in the Frontend
-    environment_id: 
-    # Relevant only for api scans. Path to the openapi file (cannot be provided with postman flag)
-    openapi: # optional
-    # Relevant only for api scans. Path to the postman collection file (cannot be provided with openapi flag)
-    postman: # optional
-    # The path to generate the output
-    output: # optional
-    # The zap engine timeout
-    timeout: # optional, default is 10000
-    # The interval in which to update on the progress of the scan
-    update_interval: # optional, default is 10
-    # The jvm properties used in the ZAP engine
-    jvm_properties: # optional, default is -Xmx3G
-    # The log level for the logs
-    log_level: # optional, default is info
-    # Set to true in order to print the logs to the stdout
-    verbose: # optional, default is false
-    # The Severity in which the action should fail
-    fail_on: # optional
-    # Retry requests to AST on connection failure
-    retry: # optional, default is 3
-    # Time between retries in seconds, use with retry
-    retry_delay: # optional, default is 20
-    # Override the proxy used by the ZAP Engine (port number is set in proxy_port)
-    proxy_url: # optional
-    # The port number for the proxy
-    proxy_port: # optional
-    # Poll timeout in seconds, for uploading results
-    poll_timeout: # optional
-    # Time interval between sending poll requests
-    poll_ticker: # optional
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate GitHub contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publish snake animation
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
