@@ -19,29 +19,72 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Install ImageMagick
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y imagemagick
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
 
-      - name: Build animated slideshow
+      - name: Install Pillow
+        run: python -m pip install --upgrade pillow
+
+      - name: Build and verify animated slideshow
         shell: bash
         run: |
           set -euo pipefail
-          shopt -s nullglob
-          files=(assets/daggworld/*.png assets/daggworld/*.jpg assets/daggworld/*.jpeg assets/daggworld/*.webp)
-          if [ "${#files[@]}" -eq 0 ]; then
-            echo "No DAGGWORLD design images found."
-            exit 1
-          fi
-          mkdir -p /tmp/daggworld
-          i=0
-          for file in "${files[@]}"; do
-            i=$((i+1))
-            magick "$file" -auto-orient -resize '900x700>' -background '#020617' -gravity center -extent 900x700 -strip "/tmp/daggworld/frame-$(printf '%03d' "$i").png"
-          done
-          magick -delay 180 -loop 0 /tmp/daggworld/frame-*.png -layers Optimize assets/daggworld/daggworld-slideshow.gif
-          identify assets/daggworld/daggworld-slideshow.gif
+          python - <<'PY'
+          from pathlib import Path
+          from PIL import Image, ImageOps, ImageDraw
+
+          root = Path("assets/daggworld")
+          output = root / "daggworld-slideshow.gif"
+          supported = {".png", ".jpg", ".jpeg", ".webp"}
+          files = sorted(
+              p for p in root.iterdir()
+              if p.is_file() and p.suffix.lower() in supported
+              and p.name.lower() != output.name.lower()
+          )
+
+          if not files:
+              raise SystemExit("No DAGGWORLD design images found.")
+
+          frames = []
+          size = (900, 700)
+
+          for path in files:
+              with Image.open(path) as source:
+                  image = ImageOps.exif_transpose(source).convert("RGB")
+                  image.thumbnail(size, Image.Resampling.LANCZOS)
+                  canvas = Image.new("RGB", size, "#020617")
+                  x = (size[0] - image.width) // 2
+                  y = (size[1] - image.height) // 2
+                  canvas.paste(image, (x, y))
+                  frames.append(canvas)
+                  print(f"Prepared: {path.name} ({source.width}x{source.height})")
+
+          frames[0].save(
+              output,
+              save_all=True,
+              append_images=frames[1:],
+              duration=1800,
+              loop=0,
+              optimize=True,
+              disposal=2,
+          )
+
+          with Image.open(output) as check:
+              frame_count = getattr(check, "n_frames", 1)
+              if frame_count != len(frames):
+                  raise SystemExit(
+                      f"GIF verification failed: expected {len(frames)} frames, got {frame_count}."
+                  )
+              if check.format != "GIF":
+                  raise SystemExit(f"GIF verification failed: format={check.format}.")
+
+          print(f"Verified slideshow: {output} | {len(frames)} frames | {output.stat().st_size} bytes")
+          PY
+
+          test -s assets/daggworld/daggworld-slideshow.gif
+          file assets/daggworld/daggworld-slideshow.gif
 
       - name: Commit slideshow
         run: |
