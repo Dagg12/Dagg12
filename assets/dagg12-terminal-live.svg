@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+<title id="title">Dagg12 Live Cyber Command Center</title>
+<desc id="desc">Animated developer at a workstation with terminal streams, network packets, security scanning and live data panels.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050816"/><stop offset=".5" stop-color="#07172b"/><stop offset="1" stop-color="#02040c"/></linearGradient>
+  <linearGradient id="cyan" x1="0" x2="1"><stop stop-color="#00e5ff"/><stop offset="1" stop-color="#00ff9d"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#12304a" stroke-width="1" opacity=".45"/></pattern>
+  <style>
+    .mono{font-family:monospace}.small{font-size:14px}.tiny{font-size:11px}.cyan{fill:#00e5ff}.green{fill:#00ff9d}.muted{fill:#7ea5bd}.panel{fill:#061221;stroke:#17445c}.line{stroke:#00e5ff;fill:none;stroke-width:2}.pulse{animation:pulse 1.5s infinite}.blink{animation:blink 1s steps(2,end) infinite}.flow{stroke-dasharray:8 12;animation:dash 1.2s linear infinite}.scan{animation:scan 3s ease-in-out infinite}.float{animation:float 3s ease-in-out infinite}
+    @keyframes dash{to{stroke-dashoffset:-40}} @keyframes pulse{50%{opacity:.35}} @keyframes blink{50%{opacity:0}} @keyframes scan{0%,100%{transform:translateY(0);opacity:.15}50%{transform:translateY(250px);opacity:.8}} @keyframes float{50%{transform:translateY(-5px)}}
+  </style>
+</defs>
+<rect width="1200" height="620" rx="24" fill="url(#bg)"/>
+<rect x="18" y="18" width="1164" height="584" rx="18" fill="url(#grid)"/>
+<text x="48" y="55" class="mono cyan" font-size="22" font-weight="700">DAGG12 // LIVE CYBER COMMAND CENTER</text>
+<circle cx="1130" cy="48" r="7" class="green pulse" filter="url(#glow)"/><text x="1145" y="53" class="mono green" font-size="13">ONLINE</text>
+
+<!-- left monitor -->
+<rect x="48" y="90" width="350" height="270" rx="12" class="panel"/>
+<rect x="62" y="104" width="322" height="210" rx="7" fill="#020a12" stroke="#0b7890"/>
+<text x="78" y="130" class="mono green small">root@dagg12:~$ ./security_monitor</text>
+<text x="78" y="158" class="mono muted tiny">[+] interface eth0 detected</text>
+<text x="78" y="178" class="mono muted tiny">[+] traffic analysis started</text>
+<text x="78" y="198" class="mono cyan tiny">[SCAN] 192.168.1.0/24</text>
+<text x="78" y="218" class="mono muted tiny">hosts: 18   services: 43</text>
+<text x="78" y="238" class="mono green tiny">threats blocked: 13</text>
+<text x="78" y="258" class="mono cyan tiny">AI anomaly score: 0.08</text>
+<text x="78" y="282" class="mono green tiny">status: defensive mode</text>
+<text x="78" y="302" class="mono cyan tiny">&gt; <tspan class="blink">█</tspan></text>
+<rect x="200" y="315" width="50" height="45" fill="#0b2637"/><path d="M225 315v45M200 337h50" stroke="#17445c"/>
+
+<!-- person -->
+<g class="float">
+  <circle cx="590" cy="155" r="42" fill="#172c40" stroke="#00e5ff" stroke-width="2"/>
+  <path d="M550 150q40-58 80 0" fill="#101722" stroke="#00e5ff" stroke-width="3"/>
+  <circle cx="575" cy="160" r="5" class="cyan"/><circle cx="606" cy="160" r="5" class="cyan"/>
+  <path d="M575 183q15 10 30 0" stroke="#00ff9d" fill="none" stroke-width="3"/>
+  <path d="M500 300q90-100 180 0v95H500z" fill="#0b1d31" stroke="#00e5ff" stroke-width="2"/>
+  <path d="M535 280l-80 95M645 280l90 95" stroke="#00e5ff" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="455" cy="375" r="13" class="green pulse"/><circle cx="735" cy="375" r="13" class="green pulse"/>
+</g>
+<text x="500" y="430" class="mono cyan" font-size="16">OPERATOR // DAGG12</text>
+
+<!-- central monitor -->
+<rect x="445" y="215" width="300" height="170" rx="10" fill="#061221" stroke="#00e5ff" stroke-width="2"/>
+<rect x="460" y="230" width="270" height="135" fill="#020a12"/>
+<text x="475" y="252" class="mono green tiny">LIVE DATA STREAM</text>
+<path d="M475 330l35-42 35 28 40-62 35 46 35-26 35 34" class="line flow"/>
+<path d="M475 345h250" stroke="#17445c"/>
+<text x="475" y="282" class="mono muted tiny">packets 18,492</text><text x="610" y="282" class="mono cyan tiny">AI 92%</text>
+
+<!-- right analytics -->
+<rect x="800" y="90" width="350" height="270" rx="12" class="panel"/>
+<text x="820" y="120" class="mono cyan small">SYSTEM TELEMETRY</text>
+<text x="820" y="150" class="mono muted tiny">CPU</text><rect x="900" y="140" width="215" height="12" rx="6" fill="#102b3c"/><rect x="900" y="140" width="153" height="12" rx="6" fill="url(#cyan)"/>
+<text x="820" y="180" class="mono muted tiny">MEMORY</text><rect x="900" y="170" width="215" height="12" rx="6" fill="#102b3c"/><rect x="900" y="170" width="168" height="12" rx="6" fill="url(#cyan)"/>
+<text x="820" y="210" class="mono muted tiny">NETWORK</text><rect x="900" y="200" width="215" height="12" rx="6" fill="#102b3c"/><rect x="900" y="200" width="185" height="12" rx="6" fill="url(#cyan)"/>
+<text x="820" y="240" class="mono muted tiny">SECURITY</text><rect x="900" y="230" width="215" height="12" rx="6" fill="#102b3c"/><rect x="900" y="230" width="211" height="12" rx="6" fill="url(#cyan)"/>
+<text x="820" y="275" class="mono green tiny">● firewall active</text><text x="820" y="295" class="mono green tiny">● intrusion monitor active</text><text x="820" y="315" class="mono cyan tiny">● AI correlation active</text><text x="820" y="335" class="mono muted tiny">events/sec: 47</text>
+
+<!-- network flows -->
+<path d="M398 180 C450 180 440 260 500 260" class="line flow" opacity=".8"/>
+<path d="M745 270 C790 270 760 180 800 180" class="line flow" opacity=".8"/>
+<path d="M745 330 C810 330 770 400 850 400" class="line flow" opacity=".8"/>
+<circle cx="420" cy="210" r="5" class="green pulse"/><circle cx="770" cy="250" r="5" class="cyan pulse"/>
+
+<!-- bottom terminal -->
+<rect x="48" y="455" width="1104" height="120" rx="12" fill="#02080f" stroke="#17445c"/>
+<text x="68" y="480" class="mono green tiny">DAGG12@LIVE:~$ tail -f /var/log/security/events.log</text>
+<text x="68" y="502" class="mono muted tiny">12:41:07  NETWORK  packet-flow detected :: 192.168.1.42 → 10.0.0.7</text>
+<text x="68" y="520" class="mono cyan tiny">12:41:08  AI        anomaly model recalibrated :: confidence 98.4%</text>
+<text x="68" y="538" class="mono green tiny">12:41:09  FIREWALL  blocked suspicious request :: rule SEC-042</text>
+<text x="68" y="556" class="mono muted tiny">12:41:10  SYSTEM    all monitored services operational <tspan class="blink">█</tspan></text>
+<rect x="68" y="565" width="1060" height="2" fill="#00e5ff" opacity=".25"/>
+<rect x="68" y="565" width="650" height="2" fill="#00ff9d" class="scan"/>
+</svg>
