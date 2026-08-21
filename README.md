@@ -160,7 +160,7 @@ I am a **Core-Founder of DAGGWORLD**, a clothing and lifestyle brand currently b
 
 ## 🐍 Contribution Matrix
 
-<div align="center"><img src="https://raw.githubusercontent.com/Dagg12/Dagg12/output/github-snake.svg" width="96%" alt="Animated GitHub contribution snake" /><br><br>`CONTRIBUTIONS` → `MOVEMENT` → `MOMENTUM`</div>
+<div align="center"><img src="https://raw.githubusercontent.com/Dagg12/Dagg12/output/github-contribution-grid-snake.svg" width="96%" alt="Animated GitHub contribution snake" /><br><br>`CONTRIBUTIONS` → `MOVEMENT` → `MOMENTUM`</div>
 
 ---
 
