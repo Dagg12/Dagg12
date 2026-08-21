@@ -141,7 +141,11 @@ I am the **Co-Founder of THAMAS TECH WORLD**, a South African ICT and networking
 
 ## 😏 DAGGWORLD // IN DEVELOPMENT
 
-<div align="center"><img src="./assets/daggworld.svg" width="100%" alt="Animated DAGGWORLD brand panel" /></div>
+<div align="center">
+<img src="./assets/daggworld.svg" width="100%" alt="Animated DAGGWORLD design lab" />
+<br><br>
+<img src="./assets/daggworld/daggworld-slideshow.gif" width="900" alt="DAGGWORLD clothing design slideshow" />
+</div>
 
 I am a **Core-Founder of DAGGWORLD**, a clothing and lifestyle brand currently being developed through design exploration, brand identity, clothing concepts and digital creativity.
 
