@@ -12,6 +12,8 @@
 
 ## ⚡ `whoami`
 
+<div align="center"><img src="./assets/whoami.svg" width="100%" alt="Animated Dagg12 identity console" /></div>
+
 > **Vhukhudo Kevin Thamaga — Dagg12** 🇿🇦
 
 I'm a software developer and technology builder working across **software, web applications, databases, networking, cybersecurity, artificial intelligence and entrepreneurship**.
