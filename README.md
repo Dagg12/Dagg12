@@ -166,7 +166,54 @@ I am a **Core-Founder of DAGGWORLD**, a clothing and lifestyle brand currently b
 
 ## 🎮 Dagg12 Terminal // LIVE
 
-<div align="center"><img src="./assets/terminal.svg" width="100%" alt="Living animated Dagg12 terminal" /></div>
+<div align="center">
+
+<img src="./assets/terminal.svg" width="100%" alt="Living animated Dagg12 terminal" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&pause=650&color=00FF9D&center=true&vCenter=true&width=900&lines=%5B+SYSTEM+ONLINE+%5D;%3E+initializing+Dagg12+terminal...;%3E+scanning+network+interfaces...;%3E+analyzing+traffic+%5B████████░░%5D;%3E+monitoring+security+events...;%3E+decrypting+data+streams...;%3E+AI+engine+%3A%3A+ACTIVE;%3E+network+engine+%3A%3A+ONLINE;%3E+security+monitor+%3A%3A+WATCHING;%3E+all+systems+operational+%E2%9A%A1" alt="Animated live terminal status" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00ff9d?style=for-the-badge&logo=linux&logoColor=white" alt="System online" />
+<img src="https://img.shields.io/badge/NETWORK-MONITORING-00e5ff?style=for-the-badge&logo=cisco&logoColor=white" alt="Network monitoring" />
+<img src="https://img.shields.io/badge/SECURITY-ACTIVE-8b5cf6?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Security active" />
+<img src="https://img.shields.io/badge/AI-ANALYZING-ff4ecd?style=for-the-badge&logo=openai&logoColor=white" alt="AI analyzing" />
+
+<br><br>
+
+<pre align="left">
+╔══════════════════════════════════════════════════════════════════════╗
+║  DAGG12 // LIVE CYBER COMMAND CONSOLE                             ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  USER       : DAGG12                                               ║
+║  STATUS     : ● ONLINE                                             ║
+║  MODE       : DEFENSIVE ANALYSIS                                   ║
+║  NETWORK    : ████████████████░░  86%                              ║
+║  CPU        : ████████████░░░░░░  71%                              ║
+║  MEMORY     : █████████████░░░░░  78%                              ║
+║  SECURITY   : ██████████████████  100%                             ║
+║  AI ENGINE  : ███████████████░░░  92%                              ║
+║                                                                      ║
+║  [>] PACKETS ANALYZED        18,492                                 ║
+║  [>] SECURITY EVENTS             7                                 ║
+║  [>] SERVICES MONITORED         24                                 ║
+║  [>] THREATS BLOCKED            13                                 ║
+║  [>] ACTIVE CONNECTIONS          9                                 ║
+║                                                                      ║
+║  > network.scan()      [COMPLETE]                                  ║
+║  > traffic.monitor()   [RUNNING]                                  ║
+║  > security.watch()    [RUNNING]                                  ║
+║  > ai.analyze()        [RUNNING]                                  ║
+║                                                                      ║
+║  DATA STREAM  ░▒▓████████████████████████████████▓▒░               ║
+╚══════════════════════════════════════════════════════════════════════╝
+</pre>
+
+> **🧠 Think. 🔎 Analyze. 🔐 Secure. 🌐 Connect. ⚡ Build.**
+
+</div>
 
 ---
 
