@@ -94,6 +94,8 @@ I'm currently learning **Kali Linux and ethical hacking** as part of my cybersec
 
 Exploring AI for **software development, automation, intelligent applications, data analysis, cybersecurity, networking, design and problem solving**.
 
+<div align="center"><img src="./assets/ai-neural-core.svg" width="100%" alt="Animated Dagg12 AI Neural Core" /></div>
+
 <div align="center">`🤖 AI APPLICATIONS` · `⚙️ AUTOMATION` · `🧠 INTELLIGENT SYSTEMS` · `🔐 AI + SECURITY` · `🌐 AI + NETWORKING` · `🎨 AI DESIGN`</div>
 
 ---
