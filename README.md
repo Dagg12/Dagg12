@@ -160,6 +160,8 @@ I am a **Core-Founder of DAGGWORLD**, a clothing and lifestyle brand currently b
 <img src="./profile/top-langs.svg" width="49%" alt="Top languages" />
 <br><br>
 <img src="./profile/streak.svg" width="82%" alt="GitHub contribution streak" />
+<br><br>
+<img src="./profile/activity.svg" width="82%" alt="GitHub monthly contribution activity graph" />
 </div>
 
 ---
@@ -173,16 +175,12 @@ I am a **Core-Founder of DAGGWORLD**, a clothing and lifestyle brand currently b
 ## 🎮 Dagg12 Terminal // LIVE
 
 <div align="center">
-
 <img src="./assets/dagg12-terminal-live.svg" width="100%" alt="Animated Dagg12 cybersecurity command center" />
-
 <br><br>
-
 <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00ff9d?style=for-the-badge&logo=linux&logoColor=white" alt="System online" />
 <img src="https://img.shields.io/badge/NETWORK-MONITORING-00e5ff?style=for-the-badge&logo=cisco&logoColor=white" alt="Network monitoring" />
 <img src="https://img.shields.io/badge/SECURITY-ACTIVE-8b5cf6?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Security active" />
 <img src="https://img.shields.io/badge/AI-ANALYZING-ff4ecd?style=for-the-badge&logo=openai&logoColor=white" alt="AI analyzing" />
-
 </div>
 
 ---
@@ -196,11 +194,9 @@ I am a **Core-Founder of DAGGWORLD**, a clothing and lifestyle brand currently b
 ## 🤝 Let's Build Something
 
 <div align="center">
-
 **SOFTWARE** · **NETWORKING** · **CYBERSECURITY** · **AI** · **DATABASES** · **ENTREPRENEURSHIP** · **CREATIVE TECHNOLOGY**
 
 > **Different technologies. One goal: build something useful.**
-
 </div>
 
 ---
