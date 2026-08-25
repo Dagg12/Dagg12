@@ -1,7 +1,6 @@
 # 🎵 Dagg12 Audio
 
-Place the music file you want to use for the **DAGGWORLD** and **Contact** interactive experiences in this folder.
-
+My music lives here
 Recommended filename:
 
 `dagg12-theme.mp3`
