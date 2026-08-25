@@ -194,7 +194,7 @@ I am a **Core-Founder of DAGGWORLD**, a clothing and lifestyle brand currently b
 ## 🤝 Let's Build Something
 
 <div align="center">
-**SOFTWARE** · **NETWORKING** · **CYBERSECURITY** · **AI** · **DATABASES** · **ENTREPRENEURSHIP** · **CREATIVE TECHNOLOGY**
+<img src="./assets/lets-build.svg" width="100%" alt="Animated Let's Build Something section" />
 
 > **Different technologies. One goal: build something useful.**
 </div>
