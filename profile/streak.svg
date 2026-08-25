@@ -1,36 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="285" viewBox="0 0 1000 285" role="img" aria-labelledby="title desc">
-<title id="title">Dagg12 GitHub contribution streak</title>
-<desc id="desc">GitHub contribution statistics for Dagg12, including total contributions, current streak and longest streak.</desc>
-<defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0%" stop-color="#0b1220"/>
-    <stop offset="100%" stop-color="#111827"/>
-  </linearGradient>
-  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0%" stop-color="#00e5ff"/>
-    <stop offset="100%" stop-color="#8b5cf6"/>
-  </linearGradient>
-</defs>
-<rect x="1" y="1" width="998" height="283" rx="20" fill="url(#bg)" stroke="#263247"/>
-<rect x="0" y="0" width="1000" height="5" rx="3" fill="url(#accent)"/>
-<text x="44" y="52" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">🔥 Dagg12 GitHub Streak</text>
-<text x="44" y="78" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="14">Live contribution data • generated automatically by GitHub Actions</text>
-
-<rect x="44" y="105" width="275" height="125" rx="16" fill="#111c2f" stroke="#24334d"/>
-<rect x="362" y="105" width="275" height="125" rx="16" fill="#111c2f" stroke="#24334d"/>
-<rect x="680" y="105" width="275" height="125" rx="16" fill="#111c2f" stroke="#24334d"/>
-
-<text x="68" y="139" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="14">TOTAL CONTRIBUTIONS</text>
-<text x="68" y="190" fill="#00e5ff" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">152</text>
-<text x="68" y="214" fill="#64748b" font-family="Arial, Helvetica, sans-serif" font-size="12">last 12 months</text>
-
-<text x="386" y="139" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="14">CURRENT STREAK</text>
-<text x="386" y="190" fill="#8b5cf6" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">2</text>
-<text x="386" y="214" fill="#64748b" font-family="Arial, Helvetica, sans-serif" font-size="12">consecutive days</text>
-
-<text x="704" y="139" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="14">LONGEST STREAK</text>
-<text x="704" y="190" fill="#00ff9d" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">7</text>
-<text x="704" y="214" fill="#64748b" font-family="Arial, Helvetica, sans-serif" font-size="12">consecutive days</text>
-
-<text x="500" y="260" text-anchor="middle" fill="#475569" font-family="Arial, Helvetica, sans-serif" font-size="11">DAGG12 • BUILD • COMMIT • REPEAT</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320" role="img">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0b1220"/><stop offset="100%" stop-color="#111827"/></linearGradient><linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#00e5ff"/><stop offset="100%" stop-color="#8b5cf6"/></linearGradient></defs>
+<rect x="1" y="1" width="998" height="318" rx="20" fill="url(#bg)" stroke="#263247"/><rect width="1000" height="5" rx="3" fill="url(#accent)"/>
+<text x="44" y="48" fill="#f8fafc" font-family="Arial" font-size="25" font-weight="700">🔥 Dagg12 GitHub Streak</text>
+<text x="44" y="73" fill="#94a3b8" font-family="Arial" font-size="14">Live contribution data • generated automatically by GitHub Actions</text>
+<rect x="44" y="105" width="275" height="125" rx="16" fill="#111c2f" stroke="#24334d"/><rect x="362" y="105" width="275" height="125" rx="16" fill="#111c2f" stroke="#24334d"/><rect x="680" y="105" width="275" height="125" rx="16" fill="#111c2f" stroke="#24334d"/>
+<text x="68" y="139" fill="#94a3b8" font-family="Arial" font-size="14">TOTAL CONTRIBUTIONS</text><text x="68" y="190" fill="#00e5ff" font-family="Arial" font-size="42" font-weight="700">152</text><text x="68" y="214" fill="#64748b" font-family="Arial" font-size="12">last 12 months</text>
+<text x="386" y="139" fill="#94a3b8" font-family="Arial" font-size="14">CURRENT STREAK</text><text x="386" y="190" fill="#8b5cf6" font-family="Arial" font-size="42" font-weight="700">2</text><text x="386" y="214" fill="#64748b" font-family="Arial" font-size="12">consecutive days</text>
+<text x="704" y="139" fill="#94a3b8" font-family="Arial" font-size="14">LONGEST STREAK</text><text x="704" y="190" fill="#00ff9d" font-family="Arial" font-size="42" font-weight="700">7</text><text x="704" y="214" fill="#64748b" font-family="Arial" font-size="12">consecutive days</text>
+<text x="500" y="270" text-anchor="middle" fill="#475569" font-family="Arial" font-size="11">DAGG12 • BUILD • COMMIT • REPEAT</text></svg>
