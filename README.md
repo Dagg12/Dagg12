@@ -147,6 +147,8 @@ I am the **Co-Founder of THAMAS TECH WORLD**, a South African ICT and networking
 <img src="./assets/daggworld.svg" width="100%" alt="Animated DAGGWORLD design lab" />
 <br><br>
 <img src="./assets/daggworld/daggworld-slideshow.gif" width="900" alt="DAGGWORLD clothing design slideshow" />
+<br><br>
+<img src="./assets/daggworld-wink.svg" width="82%" alt="Animated DAGGWORLD smirk" />
 </div>
 
 I am a **Core-Founder of DAGGWORLD**, a clothing and lifestyle brand currently being developed through design exploration, brand identity, clothing concepts and digital creativity.
@@ -206,12 +208,16 @@ I am a **Core-Founder of DAGGWORLD**, a clothing and lifestyle brand currently b
 ## 📫 Contact / Links
 
 <div align="center">
-<a href="mailto:thamagakevin12@gmail.com"><img src="https://img.shields.io/badge/EMAIL-thamagakevin12%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/Dagg12"><img src="https://img.shields.io/badge/GITHUB-Dagg12-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/thamaga-kevin"><img src="https://img.shields.io/badge/LINKEDIN-Kevin%20Thamaga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<img src="./assets/contact-links.svg" width="100%" alt="Animated Dagg12 contact and links panel" />
+
+**👇 CLICK THE BUTTONS BELOW — THEY ARE ACTIVE LINKS**
+
+<a href="mailto:thamagakevin12@gmail.com"><img src="https://img.shields.io/badge/📧%20EMAIL-CLICK%20TO%20CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Click to email Dagg12" /></a>
+<a href="https://github.com/Dagg12"><img src="https://img.shields.io/badge/🐙%20GITHUB-VISIT%20PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit Dagg12 GitHub" /></a>
+<a href="https://www.linkedin.com/in/thamaga-kevin"><img src="https://img.shields.io/badge/💼%20LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 <br><br>
-<a href="https://dagg12.github.io/Portfolio-Website/"><img src="https://img.shields.io/badge/🌐%20PORTFOLIO-VISIT-00AEEF?style=for-the-badge" alt="Portfolio" /></a>
-<a href="https://dagg12.github.io/Thamas-portfolio/"><img src="https://img.shields.io/badge/🏢%20THAMAS%20TECH%20WORLD-BUSINESS-111827?style=for-the-badge" alt="THAMAS TECH WORLD" /></a>
+<a href="https://dagg12.github.io/Portfolio-Website/"><img src="https://img.shields.io/badge/🌐%20PORTFOLIO-CLICK%20TO%20VISIT-00AEEF?style=for-the-badge" alt="Visit portfolio" /></a>
+<a href="https://dagg12.github.io/Thamas-portfolio/"><img src="https://img.shields.io/badge/🏢%20THAMAS%20TECH%20WORLD-CLICK%20TO%20VISIT-111827?style=for-the-badge" alt="Visit THAMAS TECH WORLD" /></a>
 </div>
 
 ---
