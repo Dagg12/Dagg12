@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="115" viewBox="0 0 1000 115" role="img" aria-labelledby="title desc">
+<title id="title">DAGGWORLD playful animated wink</title>
+<desc id="desc">The exact smirking face emoji animates with a subtle bounce, tilt and wink effect.</desc>
+<defs><filter id="shadow"><feDropShadow dx="0" dy="4" stdDeviation="4" flood-opacity=".35"/></filter><linearGradient id="line" x1="0" x2="1"><stop stop-color="#00e5ff"/><stop offset=".5" stop-color="#8b5cf6"/><stop offset="1" stop-color="#ff4ecd"/></linearGradient></defs>
+<rect width="1000" height="115" rx="20" fill="#070b18" stroke="#29345d"/>
+<text x="500" y="50" text-anchor="middle" fill="#f8fafc" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="700">DAGGWORLD...</text>
+<text x="500" y="91" text-anchor="middle" font-size="48" filter="url(#shadow)">😏<animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="1.8s" repeatCount="indefinite"/><animateTransform attributeName="transform" additive="sum" type="rotate" values="0;7;-5;0" dur="3.2s" repeatCount="indefinite"/></text>
+<path d="M380 103H620" stroke="url(#line)" stroke-width="2" stroke-linecap="round"><animate attributeName="stroke-dasharray" values="0 240;120 120;240 0;0 240" dur="3s" repeatCount="indefinite"/></path>
+</svg>
