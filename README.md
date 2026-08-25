@@ -159,7 +159,7 @@ I am a **Core-Founder of DAGGWORLD**, a clothing and lifestyle brand currently b
 <img src="./profile/stats.svg" width="49%" alt="GitHub statistics" />
 <img src="./profile/top-langs.svg" width="49%" alt="Top languages" />
 <br><br>
-<img src="https://streak-stats.demolab.com?user=Dagg12&theme=tokyonight&hide_border=true&border_radius=16" width="82%" alt="GitHub contribution streak" />
+<img src="./profile/streak.svg" width="82%" alt="GitHub contribution streak" />
 </div>
 
 ---
